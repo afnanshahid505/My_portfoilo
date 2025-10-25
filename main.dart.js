@@ -66075,7 +66075,7 @@ A.YY.prototype={
 $0(){return this.a.$1(2600)},
 $S:0}
 A.YZ.prototype={
-$0(){return this.a.em("https://drive.google.com/file/d/1u-84S6NbilUS6PAhxtgPp32N_-dIUxVh/view?usp=drive_link")},
+$0(){return this.a.em("https://drive.google.com/file/d/1u-84S6NbilUS6PAhxtgPp32N_-dIUxVh/view?usp=sharing")},
 $S:0}
 A.YS.prototype={
 $2(a,b){var s=null,r="Education",q="Honours & Activities",p="About Me",o="Projects",n="Work & Experience",m=b.b>=1000,l=m?1200:900,k=this.a,j=t.E

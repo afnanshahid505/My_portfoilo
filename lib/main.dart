@@ -208,7 +208,7 @@ class PortfolioHome extends StatelessWidget {
                 leading: const Icon(Icons.download),
                 title: const Text('Download Resume'),
                 onTap: () => _open(
-                    'https://drive.google.com/file/d/1u-84S6NbilUS6PAhxtgPp32N_-dIUxVh/view?usp=drive_link'),
+                    'https://drive.google.com/file/d/1u-84S6NbilUS6PAhxtgPp32N_-dIUxVh/view?usp=sharing'),
               ),
             ],
           ),
